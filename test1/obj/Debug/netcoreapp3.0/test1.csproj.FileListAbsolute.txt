@@ -1,0 +1,44 @@
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.exe
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.deps.json
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.json
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.dev.json
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.dll
+C:\Users\Sukeyna\source\repos\test1\test1\bin\Debug\netcoreapp3.0\test1.pdb
+C:\Users\Sukeyna\source\repos\test1\test1\obj\Debug\netcoreapp3.0\test1.csprojAssemblyReference.cache
+C:\Users\Sukeyna\source\repos\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfoInputs.cache
+C:\Users\Sukeyna\source\repos\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfo.cs
+C:\Users\Sukeyna\source\repos\test1\test1\obj\Debug\netcoreapp3.0\test1.dll
+C:\Users\Sukeyna\source\repos\test1\test1\obj\Debug\netcoreapp3.0\test1.pdb
+C:\Sandbox_mk\test1\test1\obj\Debug\netcoreapp3.0\test1.csprojAssemblyReference.cache
+C:\Sandbox_mk\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfoInputs.cache
+C:\Sandbox_mk\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfo.cs
+C:\Sandbox_mk\test1\test1\obj\Debug\netcoreapp3.0\test1.dll
+C:\Sandbox_mk\test1\test1\obj\Debug\netcoreapp3.0\test1.pdb
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.exe
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.deps.json
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.json
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.dev.json
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.dll
+C:\Sandbox_mk\test1\test1\bin\Debug\netcoreapp3.0\test1.pdb
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.exe
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.deps.json
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.json
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.dev.json
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.dll
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\bin\Debug\netcoreapp3.0\test1.pdb
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\obj\Debug\netcoreapp3.0\test1.csprojAssemblyReference.cache
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfoInputs.cache
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfo.cs
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\obj\Debug\netcoreapp3.0\test1.dll
+C:\Sandbox\StudyCaseProjects\caseStudySolution\test1\test1\obj\Debug\netcoreapp3.0\test1.pdb
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.exe
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.deps.json
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.json
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.runtimeconfig.dev.json
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.dll
+C:\Users\crosscheck\Desktop\test1 _Send\test1\bin\Debug\netcoreapp3.0\test1.pdb
+C:\Users\crosscheck\Desktop\test1 _Send\test1\obj\Debug\netcoreapp3.0\test1.csprojAssemblyReference.cache
+C:\Users\crosscheck\Desktop\test1 _Send\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfoInputs.cache
+C:\Users\crosscheck\Desktop\test1 _Send\test1\obj\Debug\netcoreapp3.0\test1.AssemblyInfo.cs
+C:\Users\crosscheck\Desktop\test1 _Send\test1\obj\Debug\netcoreapp3.0\test1.dll
+C:\Users\crosscheck\Desktop\test1 _Send\test1\obj\Debug\netcoreapp3.0\test1.pdb
